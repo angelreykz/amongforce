@@ -20,6 +20,10 @@ O Among Force é um painel desenvolvido para facilitar o gerenciamento da comuni
 
 Com ele é possível organizar membros, grupos, aniversários e utilizar o Chat Global em uma interface rápida, moderna e intuitiva.
 
+## 💻 Autores/Contribuidores Do Projeto
+
+- _ryan/angelreykz/zake_
+
 ## ✨ Recursos
 
 - 🔐 Login e cadastro
