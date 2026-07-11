@@ -37,13 +37,23 @@ Com ele é possível organizar membros, grupos, aniversários e utilizar o Chat 
 - Firebase
 - Firestore
 
-## 🚀 Acesse Em
+## 🌐 Acesse
 
-https://among-force.vercel.app
-Ou baixe o apk em https://github.com/angelreykz/amongforce/releases
+<p align="center">
+  <a href="https://among-force.vercel.app">
+    <img src="https://img.shields.io/badge/Acessar%20Site-2563EB?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/angelreykz/amongforce/releases">
+    <img src="https://img.shields.io/badge/Baixar%20APK-22C55E?style=for-the-badge" />
+  </a>
+</p>
+
+---
 
 <div align="center">
 
-**Among Force • V2.0 | By @angelreykz**
+**Among Force • V2.0**  
+Made by **@angelreykz**
 
 </div>
