@@ -37,27 +37,16 @@ Com ele é possível organizar membros, grupos, aniversários e utilizar o Chat 
 - Firebase
 - Firestore
 
-## 🚀 Instalação
+## 🚀 Acesse Em
 
-```bash
-git clone https://github.com/SEU-USUARIO/Among-Force.git
 ```
+https://among-force.vercel.app
+Ou baixe o apk em https://github.com/angelreykz/amongforce/releases
 
-Configure o Firebase e abra o projeto normalmente.
-
-## 📌 Roadmap
-
-- ✅ Sistema de autenticação
-- ✅ Cadastro de membros
-- ✅ Chat Global
-- ✅ Aniversários automáticos
-- 🔄 Novas ferramentas administrativas
-- 🔄 Melhorias na interface
-
----
+```
 
 <div align="center">
 
-**Among Force • V2.0**
+**Among Force • V2.0 | By @angelreykz**
 
 </div>
