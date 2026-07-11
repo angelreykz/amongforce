@@ -39,11 +39,8 @@ Com ele é possível organizar membros, grupos, aniversários e utilizar o Chat 
 
 ## 🚀 Acesse Em
 
-```
 https://among-force.vercel.app
 Ou baixe o apk em https://github.com/angelreykz/amongforce/releases
-
-```
 
 <div align="center">
 
